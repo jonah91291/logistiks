@@ -1,0 +1,95 @@
+div {
+    display: block;
+}
+
+.container {
+    width: 1336px;
+}
+
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+.footer-menu-block {
+    display: table;
+    width: 100%;
+    text-align: center;
+    
+}
+footer {
+    border-top: 6px solid #fe1d35;
+    background-color: #828282;
+    padding: 30px 0;
+    text-align: center;
+    color: #f3f3f3;
+    font-size: 16px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    padding: 0 0 15px;
+}
+.landingpage .landing-footer .container-fluid {
+    background-color: #eeeeee;
+    border-bottom: 1px solid #808080;
+    margin-bottom: 15px;
+    padding: 15px 0;
+}
+footer-menu-block {
+    display: table;
+    width: 100%;
+    text-align: center;
+}
+.landingpage .landing-footer {
+    padding: 0 0 15px;
+}
+*::after, *::before {
+    box-sizing: border-box;
+}
+.footer_sub {
+    width: 100%;
+    float: left;
+    background-color: #828282;
+    text-align: center;
+    padding: 10px 0;
+}
+body .footer .footer_link ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+ol, ul {
+    list-style: none;
+}
+body .footer .footer_link ul li a.cursor_default {
+    cursor: default!important;
+}
+body .footer .footer_link ul li a {
+    color: #333;
+    text-decoration: none;
+    
+}
+div {
+    box-sizing: border-box;
+}
+.disabelAnchor {
+    pointer-events: none;
+    cursor: default;
+}
+footer-menu-block > a {
+    font-size: 14px;
+    margin: 0 20px;
+}
+
+a {
+    background-color: transparent;
+}
+a, button, .search-modify, .detail-block {
+    transition: 0.3s;
+}
+a {
+    cursor: pointer!important;
+}
